@@ -1,0 +1,14 @@
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
