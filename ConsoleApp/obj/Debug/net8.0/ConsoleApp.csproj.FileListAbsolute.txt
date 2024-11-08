@@ -12,3 +12,4 @@
 /Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/evanjohnson/Documents/Learning .net/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
